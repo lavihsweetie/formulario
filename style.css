@@ -1,0 +1,62 @@
+body{
+    background: linear-gradient(to bottom, #4f2199, #ac7ee7);
+}
+
+.container {
+    background-color:linear-gradient(to bottom, #ac7ee7, );
+    width: 500px ;
+    padding: 20px ;
+    margin: 40px auto;
+    border-radius: 10px ;
+    box-shadow: 0 0 10px #9847e3;
+}
+
+h1 {
+    text-align:center;
+    font-size: 26px ;
+    font-weight: bold 300;
+    color: #ffffff;
+}
+
+fieldset {
+    border: none;
+    padding: nome;
+    margin: none ;
+}
+
+legend{
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+
+label{
+    display: block;
+    margin-bottom: 5px;
+
+}
+
+input{
+    width: 100%;
+    height: 35px;
+    padding: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ffffff;
+    border-radius:8px ;
+    box-sizing: border-box;
+}
+
+.enviar {
+    width: 50%;
+    height: 50%;
+    border-radius: 20px;
+    background-color: #4f2199;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 28px auto;
+    display: block; 
+
+}
